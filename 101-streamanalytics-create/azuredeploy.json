@@ -39,7 +39,7 @@
       "location": "[resourceGroup().location]",
       "properties": {
         "sku": {
-          "name": "standard"
+          "name": "Standard"
         },
         "outputErrorPolicy": "stop",
         "eventsOutOfOrderPolicy": "adjust",
